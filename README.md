@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maxi Goldmann
 - 👀 I’m studying media informatics at HSB in Bremen, Germany
-- 🌱 I’m currently learning HTML / CSS / JS / Java / LUA / C#
+- 🌱 I’m currently learning HTML / CSS / JS / Java / LUA
 - 📫 Reach me at info@maxigoldmann.de
 - ⚡ Fun fact: I got no idea what I'm doing hehe
 
