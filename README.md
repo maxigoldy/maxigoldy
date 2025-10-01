@@ -20,7 +20,7 @@ https://github.com/maxigoldy/YourFamilyHub
 - TypeScript (currently learning)
 - Blender/3ds Max (currently learning)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxigoldy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxigoldy&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 maxigoldy/maxigoldy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
