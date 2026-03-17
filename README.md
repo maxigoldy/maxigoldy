@@ -6,10 +6,8 @@
 - ⚡ Fun fact: I got no idea what I'm doing hehe
 
 ## My Organizations:
-### Hamschter-HSB: (Universityteam 2024-2025)
+### Hamschter-HSB: (Universityteam 2024-2026)
 https://github.com/Hamschter-HSB
-### YourFamilyHub: (Open-Source Project 2026 --> Coming soon)
-https://github.com/maxigoldy/YourFamilyHub
 
 ## Skills
 - [Java](https://www.hackerrank.com/certificates/237645ddd367)
